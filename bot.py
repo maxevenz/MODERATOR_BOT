@@ -10,7 +10,7 @@ import datetime
 import json
 import requests
 
-bot = commands.Bot(command_prefix="+", intents=discord.Intents.all())
+bot = commands.Bot(command_prefix=settings["prefix"], intents=discord.Intents.all())
 t = Translator()
 
 
