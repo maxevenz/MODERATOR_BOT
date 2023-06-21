@@ -1,0 +1,6 @@
+discord.py
+aiohttp
+datetime
+json
+requests
+googletrans
